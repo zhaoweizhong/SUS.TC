@@ -49,7 +49,7 @@
       </div>
       <div class="footer">
           Copyright <i class="fa fa-copyright"></i> 2017 <a href="https://cra.moe/" title="南方科技大学计算机研究协会" target="_blank">南方科技大学计算机研究协会</a><br>
-          <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="https://zzw.at/">Zhaowei Zhong</a><br>
+          <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by <a href="https://zzw.at/ title="Zhaowei's Blog" target="_blank"">Zhaowei Zhong</a><br>
           Fork me on <a href="https://github.com/zhaoweizhong/SUS.TC/" title="Github" target="_blank"><i class="fa fa-github"></i> Github</a></div>
     </div>
   </body>
