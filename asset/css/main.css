@@ -5,7 +5,7 @@
 }
 html, body, input, text, textarea {
   outline: none;
-  font-family: 'Arial', 'Microsoft YaHei', '黑体', '宋体', sans-serif;
+  font-family: "Helvetica Neue", "Hiragino Sans GB", "微软雅黑", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-size: 12px;
 }
 html, body {
